@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techwithmorrison",
+  "private_key_id": "7f4ba2be54a6ff74f08b0cbbdada3072683ded45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlw0IcAvop2ZXz\nKftdILGoEldR1gn4wOtkk14wLX5znH8UZe6nCVLPiXWqrkLjwiMvyWyV9YAMdXvr\nfTCAE0zEErFuMPgi0BnCUlXYs5kDtoYY0nRUSAlNk6qkaOeklBLRY3870wkhPJe3\nY3/QTLWVTRbXMrIcmdvFp7VYeN1cCen3nqPNjY7VGblHU7PU+WvG/naZXelmA0v/\nQ1xO5Ose1IhO5sF/dEfb3pa+V7pyF+2UnZmv4TPt7YQKXdMTG96pkzjjCLy9f9xl\nV9uIXM2RwXY5y25yIEtWGrrBJYk9TAWSEYtD34MjeZ90h6glIw+i5B9LsraJwhgG\nkcSTEujPAgMBAAECggEASZZ2D/6sHMdBjXX+ud8Ex23IZb+FxhQT0EyauBd6DpEq\n6l+TRhBoY2wFMbtKVSQSnPWIP6c3ccYXAF9CL2L/DTVneoFYl93KwkAYmqU69sN4\nw250L6I6yIvo9Wtb9YwvUrzpPUHkBK8hcGz/vLk01zKvhBEKlrp4dx+1pzZev2EZ\n+WHX9sX1kVyzwHEcqb071hdFUdVu8qMJqNy38IibMNT3DM6+gJR3ENGNvEANEAXe\nArS7YlMvWd7WuYeDnsIvriRofrMIBBGcQXfzRhwHJEugA6+3G7PY+457D/W0ggD8\nG1pKffNQ32maXgY4ZaGBTSjYZM6kTsW+yyZ+ynr78QKBgQD9tPdBLdi/Qdn0GBe3\nR5IhQbmKvUQnhINwF68Dba7aOWbuEbDySK8DZ41p8kUwNIPb6tjF2CA6LcrNg1vk\ne+zlGWCMiMXmaxEEYDoYA7uY5Rwq8qx5u8S/pVV4dZueaSjwDPKgQD27QAvp1AzX\nLVs1tXh27FkIY+9YIRU/2Cp2QwKBgQDn1uPDy9uXQtLRyBFPegl7glQgBaHJAKxf\nL8bg+Zjb+J+JGAnWijrqxYlq4O5AkvcmtPr6WIPmimu8sbdNFYPUzLb+wvWy/PdK\nuZ5mreLUtciWGSTsIhzANwil6LDRV4vGjqEHpesFiz5dvrgokDxEAKobriypka/A\nZdMKJUMohQKBgQC2Idv+5rLbWqLlIQalhLPbPBu/BfCPjgntxpLVm0ATWXITJpAo\n3xUFFKnojQwudwTSM9466dT47zbQIqUteemu7nDpcqbfq60jvxD1fHiIYrG+A0je\ne3XbPw4E1ClLp6LD8gecE4I9ktT6oEg3kVARVp2Mgk/IPjXsxpNCqiSRkQKBgDwR\nPSn5o4dpVN3tjC6fW92YQtuZGfXOKtrusgSQJr63h/4pMENZxTIWxCfg51nrugVZ\nVr2OOX591rQpB2j9bg6wi6kuMiKR0DCYLyZDX0XlY3cgRKS5oeFbYO47f7R9jkV/\nptEod+AT17DKPUSlOjgUQ/6v/fphOLwMpcU3KlNRAoGAU48mQlzGgPanm5YhtqE1\nS9Q8VMhqgrZINtCPQlCK3wM0wFB8WQr8bAsX+IG5xgaKtT9mf/tRJu9+oPjdguNJ\nbUtpJRbyYx1Wr2WeX6a/vFnCX7ycTTJCFajQf2zw2UAkyFqMG07jVb4RWwb2GOmo\n9LTFF5yLPW23klihyFAQdBk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "morrison-app@techwithmorrison.iam.gserviceaccount.com",
+  "client_id": "107204869780100132959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/morrison-app%40techwithmorrison.iam.gserviceaccount.com"
+}
